@@ -1,0 +1,1 @@
+SELECT file_path, file_size_in_bytes FROM bronze.lakehouse."part$files";

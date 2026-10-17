@@ -1,0 +1,1 @@
+SELECT SUM(file_size_in_bytes) AS size_bytes, ROUND(SUM(file_size_in_bytes) / 1000000.0, 3) AS size_mb FROM bronze.lakehouse."part$files"

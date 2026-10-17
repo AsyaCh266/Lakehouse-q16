@@ -1,0 +1,5 @@
+﻿"variant","write_wall_ms"
+"parquet_gzip","13807,678"
+"parquet_zstd","9911,206"
+"orc_gzip","11756,278"
+"orc_zstd","10188,833"

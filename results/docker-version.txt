@@ -1,0 +1,2 @@
+﻿Docker version 28.4.0, build d8eb465
+Docker Compose version v2.39.4-desktop.1
